@@ -1,9 +1,3 @@
-/* Задания на урок:
-
-3) При клике на мусорную корзину - элемент будет удаляться из списка (сложно)
-
-*/
-
 'use strict';
 
 document.addEventListener('DOMContentLoaded', () => {
@@ -102,6 +96,3 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
 });
-
-
-
