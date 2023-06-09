@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     /** @type {HTMLElement} */
     let bg = document.querySelector('.promo__bg');
-    bg.style.backgroundImage = 'url(../img/bg.jpg)';
+    bg.style.backgroundImage = 'url(img/bg.jpg)';
 
 
 
